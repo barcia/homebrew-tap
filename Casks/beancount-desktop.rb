@@ -1,6 +1,6 @@
 cask "beancount-desktop" do
-  version "0.1.0"
-  sha256 "7ec4419abef8f22b1c20b36f927392a774158ebe303fd27ab843b8e951a6dace"
+  version "0.2.0"
+  sha256 "921e1510b880ec6595258561e225a423386ddcfe7dc5fde71f39837a4a9177ef"
 
   url "https://dl.beancount.barcia.dev/beancount-desktop-#{version}.dmg"
   name "Beancount Desktop"
