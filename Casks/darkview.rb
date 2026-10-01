@@ -1,6 +1,6 @@
 cask "darkview" do
-  version "0.4.0"
-  sha256 "2fe7500c4f8e6c6b9d229b55c2ccf0e81cf83431e274438caba5c9580b7ddf4b"
+  version "0.5.0"
+  sha256 "71beda9413c69827e0790fb79c1600e003ddabf8b7aea85ce25f16e9adb402e7"
 
   url "https://dl.darkview.barcia.dev/darkview-#{version}.dmg"
   name "Darkview"
