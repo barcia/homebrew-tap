@@ -25,7 +25,7 @@ brew install --cask darkview
 
 | Cask | Description |
 | ---- | ----------- |
-| [`beancount-desktop`](Casks/beancount-desktop.rb) | Native Mac app for Beancount plain-text accounting ledgers — [beancount.barcia.dev](https://beancount.barcia.dev/) |
+| [`tallystick`](Casks/tallystick.rb) | Native Mac app for Beancount plain-text accounting ledgers (formerly `beancount-desktop`) — [tallystick.barcia.dev](https://tallystick.barcia.dev/) |
 | [`darkview`](Casks/darkview.rb) | Photo viewer and organiser with RAW support, EXIF editing and geotagging — [darkview.barcia.dev](https://darkview.barcia.dev/) |
 
 ## Formulae
